@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1566926980 source:c:\users\clau pc\desktop\c-c++\poo invatat singura\coinrunner\main.cpp
+	<iostream>
+	"Player.h"
+	"Windows.h"
+	<string>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1566907261 c:\users\clau pc\desktop\c-c++\poo invatat singura\coinrunner\player.h
+	<string>
+
+1566936302 source:c:\users\clau pc\desktop\c-c++\poo invatat singura\coinrunner\player.cpp
+	"Player.h"
+	<iostream>
+	<cstdlib>
+
